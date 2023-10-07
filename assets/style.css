@@ -1,0 +1,200 @@
+.nav-link{
+	width: 180px;
+	margin: 8px;
+}
+.nav-pills .nav-link {
+	border: 2px solid #4655766b;
+}
+p{
+font-size: 17px;
+font-weight: bold;
+color: #000;
+margin-left: 5px;
+margin-top: 20px;
+margin-bottom: 8px;
+}
+input[type="text"]{
+	padding: 8px;
+	width: 350px;
+	font-size: 20px;
+	border: 2px solid #4655766b;
+	margin: 5px;
+}
+input#exp{
+	padding: 8px;
+	width: 70px;
+	font-size: 20px;
+	border: 2px solid #4655766b;
+	margin: 5px;
+}
+input[type="password"]{
+    padding: 8px;
+	width: 110px;
+	font-size: 20px;
+	border: 2px solid #4655766b;
+	margin: 5px;
+}
+img{
+	width: 60px;
+	height: 35px;
+	position: absolute;
+	z-index:4;
+	margin-top: 12px;
+	background-color: transparent;
+}
+img.image.ml-1{
+	margin-left: -4.5rem!important;
+}
+img.qu{
+	width: 27px;
+	height: 27px;
+	border-radius: 50%;
+	margin-left: -40px;
+	margin-top: 17px;
+}
+.box{
+	border: 1px solid #b8b8b8d1;
+	width: 405px;
+	height: 385px;
+	padding: 20px;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 60px;
+}
+#pills-home{
+	display: flex;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d00;
+    border: 0;
+}
+.btn-secondary:hover, .btn-secondary.active{
+	background-color: #fff;
+	cursor: pointer;
+}
+input[type=button]:active{
+	background-color: #fff;
+}
+button.btn.btn-secondary{
+	background-color: #fff;
+	border:0;
+	width: 100px;
+	height: 40px;
+	margin-top: 20px;
+	margin-left: 20px;
+	position: absolute;
+	z-index: 0;
+}
+.terms{
+	display: flex;
+	padding: 15px;
+	width: 500px;
+	height: 55px;
+	background-color: #f1f1f182;
+	border: 1px solid #9e9e9e;
+	border-radius: 5px;
+	margin-left: -20px;
+	margin-top: 70px;
+}
+h4{
+	font-size: 22px;
+	font-weight: bold;
+}
+h5{
+	font-weight: 200;
+	font-size: 17px;
+}
+h6{
+	font-weight: 400;
+}
+.link{
+	width: 200px;
+	height: 30px;
+	background-color: transparent;
+	border:0;
+	text-decoration: underline;
+	padding-bottom: 5px;
+	text-decoration-style: dotted;
+	text-decoration-color:#486b87f5;
+	color: #486b87f5;
+	margin-bottom: 20px;
+	margin-left: -20px;
+}
+.invalid-feedback{
+	font-size: 14px;
+	margin-left: -25px;
+	margin-top: -6px;
+}
+.form_box .req:invalid {
+  border: 2px solid red;
+}
+.form_box .req:valid {
+  border: 2px solid green;
+}
+.form_box input:focus {
+  outline: none;
+  border-color: #07a6e6;
+}
+button[type="submit"]{
+	background-color: #ff5319;
+	color: #fff;
+	width: 500px;
+	padding: 17px;
+	font-size: 19px;
+	border-radius: 5px;
+	border:0;
+	position: absolute;
+	z-index: 3;
+	margin-top: 222px;
+	margin-left: -380px;
+	margin-bottom: 80px;
+}
+button[type="submit"]:hover{
+	background-color: #ff5319d9;
+}
+input[name="exp"]{
+	width: 70px;
+	height: 44px;
+}
+.code{
+	margin-left: 404px;
+	margin-top: -334px;
+	position: absolute;
+	z-index: 3;
+}
+.main{
+	margin-left: 480px;
+	margin-top: 40px;
+	width: 600px;
+}
+.good1, .good2, .good3{
+	display: flex;
+}
+h1{
+	font-size: 34px;
+	margin-bottom: 30px;
+}
+h2{
+	margin-bottom: 25px;
+	font-size: 25px;
+	margin-top: 25px;
+}
+h3{
+	font-size: 21px;
+	margin-left: 17px;
+}
+a{
+	font-size: 17px;
+	margin-left: 17px;
+}
+.price1{
+	margin-left: 90px;
+}
+.price2{
+	margin-left: 241px;
+}
+.price3{
+	margin-left: 458px;
+}
